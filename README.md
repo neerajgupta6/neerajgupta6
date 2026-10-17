@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello
 
 <!--
 **neerajgupta6/neerajgupta6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a beginner **Java Developer** ☕ and a **Software Engineering** enthusiast 💻<br />
+I created this GitHub profile to gain experience and do what I love..<br />
+I'm currently learning and working with **Java, Spring Boot, MySQL,** 🚀<br />
+I’ll be happy to receive any **feedback** or **code reviews** that can help me improve 💪<br />
+
+⭐️ Feel free to **follow me** - I’d really appreciate your support!
+
+
+Thank you for visiting my page ❤️
